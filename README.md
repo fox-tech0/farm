@@ -1,4 +1,4 @@
-# Farm!
+# Farm was replaced
 
-Farm is a project written in python for generating fake forms.
-You can also print reciepts.
+Farm was replaced by carnival,
+and you can view it [here](https://github.com/fox-tech0/carnival)
